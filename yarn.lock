@@ -7780,7 +7780,7 @@
   dependencies:
     "@remix-run/router" "1.0.2"
 
-"react-scripts@2.1.1":
+"react-scripts@^2.1.1":
   "integrity" "sha512-f6KCUy7opItgeana1Ghwj+lYQp5BTHSaivG/dbfiIqSm5QdOIUV5eiFSBsbaAE6GEKqGYmZDK6Yw5WmbrhxaFg=="
   "resolved" "https://registry.npmjs.org/react-scripts/-/react-scripts-2.1.1.tgz"
   "version" "2.1.1"
